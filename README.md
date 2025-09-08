@@ -72,6 +72,7 @@
 - 文怡心厨房: http://blog.sina.com.cn/rss/wenyi.xml
 - 喷嚏网-铂程斋: http://feedmaker.kindle4rss.com/feeds/xilei.dapenti.com.xml
 - 维基百科优良条目供稿: http://zh.wikipedia.org/w/api.php?action=featuredfeed&feed=good&feedformat=atom
+- 假设检验 https://jiashejianyan.com/rss/
 
 
 ## 软硬件、App
@@ -171,6 +172,7 @@
 - 今日话题 - 雪球: http://feedmaker.kindle4rss.com/feeds/hot.xueqiu.com.xml
 - 喷嚏网-财经风云: http://feedmaker.kindle4rss.com/feeds/caijing.dapenti.com.xml
 - 中国日报: 财经: http://feedmaker.kindle4rss.com/feeds/caijing.chinadaily.xml
+- 长牛笔记：https://stay-bullish.com/feed
 
 
 ## 独立博客
